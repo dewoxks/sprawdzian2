@@ -10,7 +10,11 @@ public class Main {
  String name = scanner.nextLine();
  System.out.println("Podaj Swoje Nazwisko");
  String surname = scanner.nextLine();
- System.out.println("Witaj mam na imię " + name + "a na naziwsko mam " + surname );
+ System.out.println("W jakeij jesteś klasie");
+ String Klasa = scanner.nextLine();
+ System.out.println("Witaj mam na imię " + name + " a na naziwsko mam " + surname + " i chodzędo klasy " + Klasa );
+
+
 
 
         
