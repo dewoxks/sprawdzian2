@@ -12,7 +12,9 @@ public class Main {
  String surname = scanner.nextLine();
  System.out.println("W jakeij jesteś klasie");
  String Klasa = scanner.nextLine();
- System.out.println("Witaj mam na imię " + name + " a na naziwsko mam " + surname + " i chodzędo klasy " + Klasa );
+ System.out.println("Ile masz lat");
+ int age = scanner.nextInt();
+ System.out.println("Witaj mam na imię " + name + " a na naziwsko mam " + surname + " i chodzędo do  klasy " + Klasa + " i jeszcze mam " + age + " lat ");
 
 
 
